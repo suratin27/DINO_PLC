@@ -1,3 +1,7 @@
+# DINO PLC v1.0.3
+- Library error             -- fixed
+- Library name changed
+- RTC function example      -- added
 # DINO PLC v1.0.2
 - Re-install to lib manager 
 # DINO PLC v1.0.1
