@@ -1,3 +1,6 @@
+# DINO PLC v1.0.4
+- PLC Modbus RTU maste      -- added
+- PLC Modbus RUT slave      -- added 
 # DINO PLC v1.0.3
 - Library error             -- fixed
 - Library name changed
