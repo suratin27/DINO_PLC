@@ -2,10 +2,14 @@
 #define DINO_PLC_H
 #include <Arduino.h>
 #include <SPIFFS.h>
-#include <StreamUtils.h>
+//#include <StreamUtils.h>
 #include <ArduinoJson.h>
 #include <ESP32Time.h>
 #include <WiFi.h>
+#include <Ethernet.h>
+#include <EthernetUdp.h>
+#include <BlynkSimpleEthernet.h>
+#include <PubSubClient.h>
 
 //--------------------------- Main Function Parts
 void     initPLC(uint16_t boardver = 100);
