@@ -28,4 +28,6 @@ void     RTCSettime(int sc,int min,int hr,int da,int mt,int yr);
 void     updateRTC();
 void     setmyRTCTime(uint16_t s,uint16_t m,uint16_t h,uint16_t d,uint16_t mo,uint16_t yr,uint16_t dw);
 
+void     PLC_Network_Function();
+
 #endif
