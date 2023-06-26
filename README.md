@@ -1,5 +1,8 @@
 # DINO PLC v1.0.5
 - DINO Webserver              --  added
+  - Blynk 1.0 ,Blynk 2.2  -- Supported
+  - MQTT Simple mode      -- Supported
+  - Line notify           -- Supported
 - Built-in Modbus TCP Server  --  added
   - FC01,FC02
   - FC03,FC04
