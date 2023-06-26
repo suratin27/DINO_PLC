@@ -1,3 +1,11 @@
+# DINO PLC v1.0.5
+- DINO Webserver              --  added
+- Built-in Modbus TCP Server  --  added
+  - FC01,FC02
+  - FC03,FC04
+  - FC05,FC06
+- NTP Server RTC              --  added
+  - Sync duration can be adjusted
 # DINO PLC v1.0.4
 - PLC Modbus RTU maste      -- added
 - PLC Modbus RUT slave      -- added 
